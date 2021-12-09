@@ -8,6 +8,7 @@ A simple php website to find places that are for rent and create ads if you have
 
 - View ads
 - Create ads that can contain up to one image
+- Delete your ads
 - Create an account
 - Login to your account
 - Leave a review
