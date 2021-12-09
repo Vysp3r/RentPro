@@ -1,10 +1,10 @@
-#php-rentpro
+# php-rentpro
 - - - -
-###Description
+### Description
 
 A simple php website to find places that are for rent and create ads if you have places you want to rent.
 
-###Features
+### Features
 
 - View ads
 - Create ads that can contain up to one image
@@ -14,7 +14,7 @@ A simple php website to find places that are for rent and create ads if you have
 - View the reviews
 - Advanced search tool
 
-###How to use
+### How to use
 
 - Install XAMPP (or any alternative)
 - Import the SQL database to your server
